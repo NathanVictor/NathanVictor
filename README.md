@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Nathan Victor!
 
-*- 💼 Eu sou, programador de Front-end e Back-end!*
+*- 💼 Eu sou um programador Full Stack*
 
 *- 📚 Estudo na pontifícia universidade católica de minas gerais!*
 
