@@ -1,8 +1,8 @@
 ### Olá, Meu nome é Nathan Victor!
 
-*- 💼 Eu sou um programador Full Stack*
+*- 💼 Eu sou um Programador Full Stack*
 
-*- 📚 Estudo na pontifícia universidade católica de minas gerais!*
+*- 📚 Estudo na Pontifícia Universidade Católica de Minas Gerais!*
 
 *- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript.*
 
