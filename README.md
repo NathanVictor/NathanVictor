@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Nathan Victor!
 
-*- 💼 Eu sou um Programador Full Stack.*
+*- 💼 Eu sou um Desenvenvolvedor DevOps.*
 
 *- 📚 Estudo na Pontifícia Universidade Católica de Minas Gerais!*
 
@@ -25,3 +25,6 @@
   <a href = "mailto:contato.nathan.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-nogueira-7830b4206/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5531988459874" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+
+*- 📝 Sobre: Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos. Estou empenhado em me capacitar ao máximo para ampliar minha compreensão e experiência na área de desenvolvimento de software.*
