@@ -8,7 +8,7 @@
 
 ### Sobre 
 
-*- Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos.* 
+*- Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Com isso, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos.* 
 
 <div align="center">
   <a href="https://github.com/Nathan3345">
