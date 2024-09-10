@@ -1,4 +1,4 @@
-### Olá, Meu nome é Nathan Victor!
+# Olá, Meu nome é Nathan Victor!
 
 *- 💼 Eu sou um Desenvenvolvedor DevOps.*
 
@@ -6,7 +6,7 @@
 
 *- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript.*
 
-#### Sobre 
+### Sobre 
 
  - Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos.
 
