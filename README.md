@@ -6,6 +6,8 @@
 
 *- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript.*
 
+*- Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos. Estou empenhado em me capacitar ao máximo para ampliar minha compreensão e experiência na área de desenvolvimento de software.*
+
 <div align="center">
   <a href="https://github.com/Nathan3345">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
