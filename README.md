@@ -27,4 +27,4 @@
 <a href="https://api.whatsapp.com/send?phone=5531988459874" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
-*- 📝 Sobre: Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos. Estou empenhado em me capacitar ao máximo para ampliar minha compreensão e experiência na área de desenvolvimento de software.*
+* Sobre: Tenho um conhecimento inicial em DevOps, mas estou focado em expandir meus horizontes e aprender continuamente. Atualmente, busco uma oportunidade para atuar como Desenvolvedor Júnior, onde posso aplicar minhas habilidades e, ao mesmo tempo, desenvolver novos conhecimentos. Estou empenhado em me capacitar ao máximo para ampliar minha compreensão e experiência na área de desenvolvimento de software.*
