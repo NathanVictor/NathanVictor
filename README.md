@@ -27,6 +27,8 @@
   <a href="https://www.linkedin.com/in/nathan-nogueira-7830b4206/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5531988459874" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
+##
+
 ## Sobre 👨‍💻
 
 🔍 *Estou iniciando minha jornada em DevOps, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades tanto em desenvolvimento quanto na cultura DevOps.*
