@@ -6,14 +6,6 @@
 
 *- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript.*
 
-## Sobre 👨‍💻
-
-🔍 Estou iniciando minha jornada em DevOps, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades tanto em desenvolvimento quanto na cultura DevOps.
-
-🚀 Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar minhas habilidades em linguagens como C#, Java, Python, JavaScript, além de ferramentas como Docker. Acredito no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.
-
-🎓 Estudo Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais, onde venho aprimorando minhas capacidades técnicas e desenvolvendo uma visão mais ampla sobre o mundo da tecnologia.* 
-
 <div align="center">
   <a href="https://github.com/Nathan3345">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanVictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,3 +25,12 @@
   <a href = "mailto:contato.nathan.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-nogueira-7830b4206/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://api.whatsapp.com/send?phone=5531988459874" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
+
+## Sobre 👨‍💻
+
+🔍 *Estou iniciando minha jornada em DevOps, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades tanto em desenvolvimento quanto na cultura DevOps.*
+
+🚀 *Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar minhas habilidades em linguagens como C#, Java, Python, JavaScript, além de ferramentas como Docker. Acredito no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
+
+🎓 *Estudo Sistemas de Informação na Pontifícia Universidade Católica de Minas Gerais, onde venho aprimorando minhas capacidades técnicas e desenvolvendo uma visão mais ampla sobre o mundo da tecnologia.* 
