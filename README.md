@@ -30,4 +30,4 @@
 ## Sobre 👨‍💻
 🔍 *Estou iniciando minha jornada em DevOps, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades tanto em desenvolvimento quanto na cultura DevOps.*
 
-🎓 *Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar minhas habilidades em linguagens como C#, Java, Python, JavaScript. Acredito no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
+🎓 *Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar minhas habilidades em linguagens como C#, Python, JavaScript, TypeScript. Acredito no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
