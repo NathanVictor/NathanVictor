@@ -1,6 +1,6 @@
 # Olá, Meu nome é Nathan Victor!
 
-*- 💼 Eu sou um Desenvenvolvedor DevOps.*
+*- 💼 Eu sou um Desenvenvolvedor Back-end.*
 
 *- 📚 Estudo na Pontifícia Universidade Católica de Minas Gerais!*
 
