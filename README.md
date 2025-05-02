@@ -32,4 +32,4 @@
 
 🎓 *Atualmente, estou em busca de uma oportunidade como Estagiário de desenvolvimento, onde possa aplicar minhas habilidades. Acredito que no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
 
-🤓 *Tenho conhecimento em linguagens como Java, C#, Python, JavaScript, TypeScript. Estou motivado a enfrentar novos desafios que me permitam crescer profissionalmente e gerar valor por meio da tecnologia.*
+📚 *Tenho conhecimento em linguagens como Java, C#, Python, JavaScript, TypeScript. Estou motivado a enfrentar novos desafios que me permitam crescer profissionalmente e gerar valor por meio da tecnologia.*
