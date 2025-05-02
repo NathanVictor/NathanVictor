@@ -28,6 +28,8 @@
 <a href="https://api.whatsapp.com/send?phone=5531988459874" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 ## Sobre 👨‍💻
-🔍 *Estou iniciando minha jornada em DevOps, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades tanto em desenvolvimento quanto na cultura DevOps.*
+🔍 *Estou iniciando minha jornada como desenvolvedor, mas sempre buscando novos desafios e oportunidades para expandir meu conhecimento. Sou apaixonado por tecnologia e pela ideia de aprender continuamente, aprimorando minhas habilidades técnicas e meu desenvolvimento pessoal.*
 
-🎓 *Atualmente, estou em busca de uma oportunidade como Desenvolvedor Júnior, onde possa aplicar minhas habilidades em linguagens como C#, Python, JavaScript, TypeScript. Acredito no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
+🎓 *Atualmente, estou em busca de uma oportunidade como Estagiário de desenvolvimento, onde possa aplicar minhas habilidades. Acredito que no poder da inovação e da colaboração, e estou sempre disposto a enfrentar novos desafios para crescer profissionalmente e contribuir para projetos impactantes.*
+
+🤓 *Tenho conhecimento em linguagens como Java, C#, Python, JavaScript, TypeScript. Estou motivado a enfrentar novos desafios que me permitam crescer profissionalmente e gerar valor por meio da tecnologia.*
