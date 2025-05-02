@@ -4,7 +4,7 @@
 
 *- 📚 Estudo na Pontifícia Universidade Católica de Minas Gerais!*
 
-*- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript.*
+*- 📝 Conhecimento em C#, Java, Python, HTML, CSS, Docker, JavaScript, Type Script*
 
 <div align="center">
   <a href="https://github.com/Nathan3345">
